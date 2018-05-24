@@ -61,4 +61,4 @@ Send me your bugs (gently).
 
 
 ## Tofugu Examples
-I did a small extension where I took the material from the (Tofugu Pronunciation Article)[https://www.tofugu.com/japanese/japanese-pronunciation/] and wrote a simple parser to generate graphics showing the pattern rather than using their LH letter convention to show pitch. The examples are available in tofugu_examples and tofugu_files. [2018-05-23]
+I did a small extension where I took the material from the [Tofugu Pronunciation Article](https://www.tofugu.com/japanese/japanese-pronunciation/) and wrote a simple parser to generate graphics showing the pattern rather than using their LH letter convention to show pitch. The examples are available in tofugu_examples and tofugu_files. [2018-05-23]
