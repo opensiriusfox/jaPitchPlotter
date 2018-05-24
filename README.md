@@ -31,7 +31,7 @@ odaka (尾高) word. This is easily overridden by using the named variable
 | べんきょう | `0/4` | 4 mora 平板 |
 | べんきょうになる　| `0/4,1/2` | 4 mora 平板 connected to particle and 2 mora 頭高 |
 | べんきょうになる　| `0/4,*1/2` | disconnected line between particle and second word |
-| でんしゃは | `2/3` | 3 mora 中高 with marked particle |
+| きのうは | `2/3` | 3 mora 中高 with marked particle |
 | べんきょうして | `0/4*,*0/2` | disconnected line, no implied particle |
 
 In short rules are:
